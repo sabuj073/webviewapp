@@ -1,0 +1,2 @@
+rootProject.name = "Ringme"
+include ':app'
