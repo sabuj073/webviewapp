@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-        wv.loadUrl("https://luku.ke/");
+        wv.loadUrl("https://yueipos.com/");
     }
 
 
